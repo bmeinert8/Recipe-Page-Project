@@ -1,4 +1,4 @@
-Responsive Recipe Page
+# Responsive Recipe Page
 
 This project is a responsive recipe page that displays a recipe with ingredients, instructions, and nutritional information. The page is designed to be visually appealing and user-friendly across different screen sizes.
 
