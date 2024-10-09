@@ -171,6 +171,10 @@ hr{
   align-self: flex-start;
 }
 
+section{
+  width: 100%;
+}
+
 .nutrition-p{
   margin-bottom: 0.75rem;
 }
