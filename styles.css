@@ -57,7 +57,7 @@ p, h1, h2, h3, h4, h5, h6 {
   isolation: isolate;
 }
 
-.container{
+.main-container{
   display: flex;
   width: 46rem;
   padding: 2.5rem;
@@ -169,4 +169,21 @@ hr{
   color: #854632;
   font-weight: bold;
   align-self: flex-start;
+}
+
+.nutrition-p{
+  margin-bottom: 0.75rem;
+}
+
+.table-row{
+  display: flex;
+  gap: 1.5rem;
+  padding: 0 2rem;
+}
+
+
+.table-element{
+  display: flex;
+  width: 280px;
+  margin: 0.75rem 0;
 }
